@@ -1,0 +1,31 @@
+body {
+    background-color: #77CCFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: #FF88CC;
+    text-align: start;
+    font-size: 60px;
+
+}
+
+.px {
+    width: 300px;
+    background-color: #f4a261;
+}
+.pct {
+    width: 50%;
+    background-color: #2a9d8f;
+}
+.vw {
+    width: 50vw;
+    background-color:#e9c46a;
+}
+.em {
+    font-size: 2em;
+}
+.hero {
+    height: 50vh; 
+    background-color: #264653; color: #fff;
+}
